@@ -1,0 +1,24 @@
+second
+unit=unit
+unit=unit
+nanosecond
+unit*=1000000000
+unit/=1000000000
+microsecond
+unit*= 1000000
+unit/=1000000
+millisecond
+unit*=1000
+unit/=1000
+minute
+unit*=60
+unit/=60
+hour
+unit*=3600
+unit/=3600
+day
+unit*=86400
+unit/=86400
+week
+unit*=604800
+unit/=604800

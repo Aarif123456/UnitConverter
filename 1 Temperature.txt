@@ -1,0 +1,9 @@
+Celsius
+unit=unit
+unit=unit
+Fahrenheit
+unit=(unit-32)*(5/9)
+unit=unit*(9/5)+32
+kelvin
+unit+=273.15  
+unit-=273.15  

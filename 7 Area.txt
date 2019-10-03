@@ -1,0 +1,16 @@
+squaremeter
+unit=unit
+unit=unit
+squarekm
+unit*=1000000
+unit/=1000000
+hectare
+unit*=10000
+unit/=10000
+squaremile
+unit/=3.861*10**-7
+unit*=3.861*10**-7
+acre
+squareyard
+squarefoot
+squareinch

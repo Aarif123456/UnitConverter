@@ -1,0 +1,15 @@
+meterperseconds
+unit=unit
+unit=unit
+kmperhour
+unit*=3.6
+unit/=3.6
+mileperhour
+unit*=2.2369629
+unit/=2.2369629
+feetpersec
+unit*=3.2808399
+unit/=3.2808399
+knot
+unit*=1.94384449
+unit/=1.94384449
